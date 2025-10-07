@@ -55,6 +55,8 @@ plt.show()
 # Output Waveform
 
 <img width="1670" height="505" alt="image" src="https://github.com/user-attachments/assets/3ae274c5-db03-46dd-9d46-209865283002" />
+<img width="1542" height="508" alt="image" src="https://github.com/user-attachments/assets/b3a42b54-b6b5-4a8c-abf2-f09b8aa3733b" />
+
 # Results
 Thus, the ASK(Amplitude Shift Keying) is performed successfully using Python.
 
